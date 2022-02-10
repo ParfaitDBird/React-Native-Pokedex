@@ -3,8 +3,11 @@ Pokedex app in react-native
 
 Light and dark themes
 
-<img src='https://i.imgur.com/LSmbuwj.jpg'  width='125'>
-<img src='https://i.imgur.com/7K5V8nY.jpg'  width='125'>
+<img src='https://i.imgur.com/LSmbuwj.jpg'  width='125'> <img src='https://i.imgur.com/7K5V8nY.jpg'  width='125'>
+
+Search by number or name 
+
+<img src='https://i.imgur.com/8Zf5PqA.jpg' width='125'>  <img src='https://i.imgur.com/p5aDQ3H.jpg' width='125'>
 
 Pokemon screen
 
@@ -13,7 +16,4 @@ Pokemon screen
 
 
 
-Search by number or name 
 
-<img src='https://i.imgur.com/8Zf5PqA.jpg' width='125'>
-<img src='https://i.imgur.com/p5aDQ3H.jpg' width='125'>
